@@ -1,4 +1,4 @@
-# 3장_파이썬
+# Python
 
 | #    | contents                                    |
 | ---- | ------------------------------------------- |
@@ -66,7 +66,7 @@ example[lower : : upper]
   ```python
   # correct
   def complex(real, imag=0.0):
-      return magix(r=real, i=imag)
+      return magic(r=real, i=imag)
   
   # wrong
   def complex(real, imag=0.0):
